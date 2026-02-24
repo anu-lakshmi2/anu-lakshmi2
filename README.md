@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anulakshmi 👋
 
-<!--
-**anu-lakshmi2/anu-lakshmi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student  
+🐍 Learning Python and strengthening programming fundamentals  
+📚 Practicing Data Structures and solving LeetCode problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python, C (Basics & Practice Projects)
+- HTML & CSS (Beginner Level)
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🎯 Current Goals
+- Strengthen Data Structures & Algorithms
+- Build 2–3 complete full-stack projects
+- Improve clean code practices
+- Become internship-ready
+
+---
+
+💻 Consistently learning and building step by step.
