@@ -1,15 +1,20 @@
-# Hi, I'm Anulakshmi 👋
+Hi, I'm Anulakshmi 👋
 
-🎓 BTech Computer Science Student  
-🐍 Learning Python and strengthening programming fundamentals  
-📚 Practicing Data Structures and solving LeetCode problems  
+🎓 B.Tech Computer Science Engineering student at NSS College of Engineering, Palakkad
+
+👩‍💻 About Me
+
+- 💻 Passionate about software development and problem solving
+- 🐍 Learning Python and strengthening programming fundamentals
+- 📚 Practicing Data Structures & Algorithms on LeetCode
+- 🌱 Exploring Web Development, Git, and Open Source
+
+🛠️ Tech Stack
+
+Languages: Python, C, Java, SQL
+
+Web: HTML, CSS, JavaScript
 
 
-## 🎯 Current Goals
-- Strengthen Data Structures & Algorithms
-- Build 2–3 complete full-stack projects
-- Improve clean code practices
-- Become internship-ready
-
-
-💻 Consistently learning and building step by step.
+- LinkedIn: https://www.linkedin.com/in/anulakshmi-c-022114330
+- LeetCode: https://leetcode.com/u/lakshmi516/
